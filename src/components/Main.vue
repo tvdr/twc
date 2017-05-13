@@ -90,7 +90,7 @@
 
 <script>
     export default {
-        name: 'hello',
+        name: 'main',
         props: ['usersettings'],
         data () {
             return {
